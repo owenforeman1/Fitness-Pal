@@ -20,7 +20,7 @@ Go to deployed page and use it from there or git clone the repo.
 ## Usage
 
 ![](public/images/palgif.gif)
-Deployed Page => https://pacific-falls-61654.herokuapp.com/login
+Deployed Page => https://fitness-pal-deploy.herokuapp.com/login
 
 ## Credits
 
